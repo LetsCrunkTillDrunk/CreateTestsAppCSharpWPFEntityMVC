@@ -1,0 +1,10 @@
+c:\users\mediff\documents\visual studio 2015\Projects\TestAppLibrary\TestAppLibrary\bin\Debug\TestAppLibrary.dll.config
+c:\users\mediff\documents\visual studio 2015\Projects\TestAppLibrary\TestAppLibrary\bin\Debug\TestAppLibrary.dll
+c:\users\mediff\documents\visual studio 2015\Projects\TestAppLibrary\TestAppLibrary\bin\Debug\TestAppLibrary.pdb
+c:\users\mediff\documents\visual studio 2015\Projects\TestAppLibrary\TestAppLibrary\bin\Debug\EntityFramework.dll
+c:\users\mediff\documents\visual studio 2015\Projects\TestAppLibrary\TestAppLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mediff\documents\visual studio 2015\Projects\TestAppLibrary\TestAppLibrary\bin\Debug\EntityFramework.xml
+c:\users\mediff\documents\visual studio 2015\Projects\TestAppLibrary\TestAppLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mediff\documents\visual studio 2015\Projects\TestAppLibrary\TestAppLibrary\obj\Debug\TestAppLibrary.dll
+c:\users\mediff\documents\visual studio 2015\Projects\TestAppLibrary\TestAppLibrary\obj\Debug\TestAppLibrary.pdb
+C:\Users\Mediff\Documents\Visual Studio 2015\Projects\TestAppLibrary\TestAppLibrary\obj\Debug\TestAppLibrary.csprojResolveAssemblyReference.cache
